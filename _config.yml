@@ -74,8 +74,9 @@ author:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@nishatandmusa"
-
-
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:nishatandmusa@gmail.com"
 
 
 footer:
@@ -92,7 +93,9 @@ footer:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@nishatandmusa"
-
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:nishatandmusa@gmail.com"
 
 defaults:
   # _posts
@@ -120,3 +123,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+atom_feed:
+  hide: true
