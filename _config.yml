@@ -33,6 +33,10 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+
+teaser: "/assets/images/nishatandmusa_profile_01.jpg"
+
+
 include:
   - _pages
 
@@ -77,6 +81,8 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:nishatandmusa@gmail.com"
+
+
 
 
 footer:
