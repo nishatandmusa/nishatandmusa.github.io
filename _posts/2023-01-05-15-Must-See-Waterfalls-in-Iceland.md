@@ -218,3 +218,4 @@ Gullfoss is one of the most popular spots in Golden Circle. Gullfoss is also cal
 
 <h2 style="text-align: center;">Best Waterfalls in Iceland on a Map</h2>
 
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=17-cPS20s5LOAtgoo-ck9Sidew8WewIg&ehbc=2E312F" width="640" height="480"></iframe>
