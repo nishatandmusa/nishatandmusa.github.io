@@ -17,6 +17,10 @@ search: false
     width: 60%
 }
 
+.width-pct-80 {
+    width: 80%
+}
+
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
