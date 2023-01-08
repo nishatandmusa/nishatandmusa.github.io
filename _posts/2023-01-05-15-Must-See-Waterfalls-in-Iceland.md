@@ -5,13 +5,17 @@ date: 2023-01-05T15:34:30-04:00
 header:
   image: assets/images/hengifoss_header.jpg
 
+
 #categories:
 #  - blog
 #tags:
 #  - Jekyll
 #  - update
 #{% include figure image_path="/assets/images/hengifoss_header.jpg" alt="this is a placeholder image" %}
+
+
 ---
+
 
 Iceland, the land of fire and ice, and obviously the land of waterfalls! There are more than 10000 waterfalls in Iceland. And probably only 200 of them have names. If you are planning an Iceland trip and trying to make a list of what places to go, you probably have heard of Skogafoss, Seljalandsfoss, and Gullfoss. But these are just a few of the best waterfalls in Iceland.
 
@@ -20,12 +24,12 @@ During our two-week trip to Iceland, we drove along so many waterfalls. However,
 Here are our top 15 Iceland waterfalls with their exact location. You will find a map with all these waterfalls at the end.
 
 
-<h1 style="text-align: center;">Best Waterfalls in Iceland</h1>
+# Best Waterfalls in Iceland
+
 Here are our top 15 waterfalls. We listed them in counterclockwise order around the country, starting in South Iceland.
 
 
-
-<h2 style="text-align: center;">1. Seljalandsfoss</h2>
+## 1. Seljalandsfoss
 
 Seljalandsfoss Waterfall is one of the first waterfalls you’ll see if you drive south on Ring Road from Reykjavik. You can walk behind this 200 ft (60m) waterfall and this is one of the most popular waterfalls in Iceland. 
 
@@ -38,7 +42,8 @@ You can get a chance to take pictures of a rainbow by water spray on a sunny day
 
 
 
-<h2 style="text-align: center;">2. Gljúfrafoss</h2>
+
+## 2. Gljúfrafoss
 
 While you’re at Seljalandsfoss, don’t forget to visit Gljúfrafoss, which is just a 10 min walk from Seljalandsfoss. Gljúfrafoss is a hidden waterfall tucked inside a cave. 
 
@@ -50,7 +55,8 @@ Be prepared to get wet while going inside the cave. We would recommend having wa
 
 
 
-<h2 style="text-align: center;">3. Skogafoss</h2>
+
+## 3. Skogafoss
 
 Hands down, Skogafoss is the most iconic and famous waterfall in Iceland. You can definitely feel the power of this waterfall while standing in front of it.
 
@@ -63,8 +69,7 @@ If you want to have this popular waterfall for yourselves, be there early. If yo
 
 
 
-
-<h2 style="text-align: center;">4. Kvernufoss</h2>
+## 4. Kvernufoss
 
 Just beside Skogafoss, Kvernufoss is another beautiful waterfall in Iceland. You can walk behind this waterfall like Seljalandfoss. But this is much smaller in size.
 
@@ -74,20 +79,17 @@ Just beside Skogafoss, Kvernufoss is another beautiful waterfall in Iceland. You
 
 
 
-
-<h2 style="text-align: center;">5. Hangandifoss and Mulafoss</h2>
+## 5. Hangandifoss and Mulafoss
 
 Hangandifoss is one of Iceland's tallest waterfalls and offers you amazing views. It's part of the Múlagljúfur canyon with another beautiful Mulafoss waterfall. 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/hangandifoss.jpg){: .width-pct-40}
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mulafoss.jpg){: .width-pct-40}
-
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/hangandifoss_mulafoss.jpg){: .align-center .width-pct-80}
 
 **How to visit Hangandifoss and Mulafoss:** The hike to Hangandifoss starts at the same parking lot of the  Múlagljúfur canyon. The parking lot is located near to the Fjallsárlón glacier lagoon.  A 4wd or 4x4 car isn’t necessary to get there but the road isn’t the best so take it slow.
 
 
 
-<h2 style="text-align: center;">6. Hengifoss</h2>
+## 6. Hengifoss
 
 The unique red clay sandwiched between the rock layers makes Hengifoss one of the most unique waterfalls in Iceland. This 420 ft (130 m) waterfall is the 2nd largest waterfall in East Iceland. 
 
@@ -100,7 +102,7 @@ You need to do a moderate 3 miles hike to get to this beautiful waterfall. The w
 
 
 
-<h2 style="text-align: center;">7. Gufufoss</h2>
+## 7. Gufufoss
 
 Gufufoss is another hidden gem of East Iceland. This is the largest of the hundred waterfalls in the Seyðisfjörður area. 
 
@@ -113,7 +115,7 @@ Gufufoss looks the same as the Skogafoss waterfall. The only difference is this 
 
 
 
-<h2 style="text-align: center;">8. Dettifoss</h2>
+## 8. Dettifoss
 
 Located in North Iceland, Dettifoss is one of Europe’s most powerful waterfalls. You can see the mist of Dettofoss from miles away and when you get right up to the waterfall you can feel the power. 
 
@@ -126,8 +128,7 @@ You can see Dettifoss from the East and West sides of Jökulsá á Fjöllum rive
 
 
 
-
-<h2 style="text-align: center;">9. Selfoss</h2>
+## 9. Selfoss
 
 Another beautiful waterfall in North Iceland is Selfoss. This sits just beside the Dettifoss.  It may not be powerful like Dettifoss, but Selfoos is a more elegant one. 
 
@@ -140,8 +141,7 @@ Like the Dettifoss, You can see Selfoss from the East and West sides of Jökuls�
 
 
 
-
-<h2 style="text-align: center;">10. Goðafoss</h2>
+## 10. Goðafoss
 
 Goðafoss also called “Waterfall of the Gods” is one of the most beautiful sights in Iceland. It is located just off the ring road in North Iceland. 
 
@@ -152,7 +152,7 @@ Goðafoss also called “Waterfall of the Gods” is one of the most beautiful s
 
 
 
-<h2 style="text-align: center;">11. Dynjandi</h2>
+## 11. Dynjandi
 
 The magnificent Dynjandi is an insane cascading waterfall in Iceland's  Westfjords. This is called the “Jewel of Westfjords” and is worth the detour from the ring road of Iceland.
 
@@ -165,8 +165,7 @@ You need to hike a mile to go to the bottom of Dynjandi. You will pass 6 other w
 
 
 
-
-<h2 style="text-align: center;">12. Kirkjufellsfoss</h2>
+## 12. Kirkjufellsfoss
 
 You probably have seen lots of pictures of Kirkjufellsfoss. This is a very popular spot for photographers with panoramic views of an iconic waterfall & Kirkjufell mountain
 
@@ -176,9 +175,7 @@ You probably have seen lots of pictures of Kirkjufellsfoss. This is a very popul
 
 
 
-
-
-<h2 style="text-align: center;">13. Sigöldugljúfur</h2>
+## 13. Sigöldugljúfur
 
 Sigöldugljúfur, also known as the Valley of Tears, is a canyon in the Icelandic Highlands. It gets this nickname from its sheer number of waterfalls. 
 
@@ -190,8 +187,7 @@ Sigöldugljúfur is probably the best off-the-beaten-path location but is often 
 
 
 
-
-<h2 style="text-align: center;">14. Haifoss</h2>
+## 14. Haifoss
 
 Haifoss means “High waterfall”. This 396 ft (121m) waterfall was once recorded as the highest waterfall in Iceland. And that’s why it’s called Haifoss. Though it’s not the highest anymore, Haifoss is one of the highest waterfalls in Iceland.
 
@@ -203,8 +199,7 @@ This majestic waterfall is worth the detour from the iconic Landmannalaugar driv
 
 
 
-
-<h2 style="text-align: center;">15. Gullfoss</h2>
+## 15. Gullfoss
 
 Gullfoss is one of the most popular spots in Golden Circle. Gullfoss is also called “Golden Falls”, Golden Circle was named after this.
 
@@ -214,8 +209,7 @@ Gullfoss is one of the most popular spots in Golden Circle. Gullfoss is also cal
 
 
 
-
-<h2 style="text-align: center;">Best Waterfalls in Iceland on a Map</h2>
+# Best Waterfalls in Iceland on a Map
 
 <p align="center">
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=17-cPS20s5LOAtgoo-ck9Sidew8WewIg&ehbc=2E312F" width="800" height="600"></iframe>
