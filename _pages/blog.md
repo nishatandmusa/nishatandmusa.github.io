@@ -1,16 +1,9 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#layout: home
+title: "Blog"
 layout: splash
-#author_profile: true
-#header:
-#  overlay_color: "#000"
-#  overlay_filter: "0.0"
-#  overlay_image: assets/images/home_header_02.jpg
+permalink: /blog/
 header:
-  image: assets/images/mesquite_dunes_01.jpg
+  image: assets/images/home_header_04.jpg
 
 
 feature_row:
@@ -35,9 +28,6 @@ feature_row:
     url: "post-test/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
-#  - image_path: assets/images/nishatandmusa_profile_01.jpg
-#    title: "Placeholder 3"
-#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
+
 {% include feature_row %}
