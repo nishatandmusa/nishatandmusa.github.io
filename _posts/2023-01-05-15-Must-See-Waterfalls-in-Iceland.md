@@ -82,8 +82,7 @@ Hangandifoss is one of Iceland's tallest waterfalls and offers you amazing views
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/hangandifoss.jpg){: .width-pct-40}
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mulafoss.jpg){: .width-pct-40}
 
-\
-\
+
 **How to visit Hangandifoss and Mulafoss:** The hike to Hangandifoss starts at the same parking lot of the  Múlagljúfur canyon. The parking lot is located near to the Fjallsárlón glacier lagoon.  A 4wd or 4x4 car isn’t necessary to get there but the road isn’t the best so take it slow.
 
 
@@ -218,4 +217,6 @@ Gullfoss is one of the most popular spots in Golden Circle. Gullfoss is also cal
 
 <h2 style="text-align: center;">Best Waterfalls in Iceland on a Map</h2>
 
-<iframe src="https://www.google.com/maps/d/u/2/embed?mid=17-cPS20s5LOAtgoo-ck9Sidew8WewIg&ehbc=2E312F" width="640" height="480"></iframe>
+<p align="center">
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=17-cPS20s5LOAtgoo-ck9Sidew8WewIg&ehbc=2E312F" width="800" height="600"></iframe>
+</p>
