@@ -171,7 +171,7 @@ You probably have seen lots of pictures of Kirkjufellsfoss. This is a very popul
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/kirkjufellsfoss.jpg){: .align-center .width-pct-80}
 
-**How to visit Kirkjufellsfoss:** Kirkjufellsfoss is in Iceland's Snaefellsnes Peninsula. You can park in the free parking lot just beside highway 54 and walk along the trail to the viewing spot.
+**How to visit Kirkjufellsfoss:** Kirkjufellsfoss is in Iceland's Snaefellsnes Peninsula. You need to pay 700 ISK (as of June 2022) to park at the parking lot just beside highway 54 and walk along the trail to the viewing spot.
 
 
 
