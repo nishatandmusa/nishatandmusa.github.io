@@ -17,11 +17,11 @@ header:
 ---
 
 
-Iceland, the land of fire and ice, and obviously the land of waterfalls! There are more than 10000 waterfalls in Iceland. And probably only 200 of them have names. If you are planning an Iceland trip and trying to make a list of what places to go, you probably have heard of Skogafoss, Seljalandsfoss, and Gullfoss. But these are just a few of the best waterfalls in Iceland.
+Iceland, the land of fire and ice, and obviously the land of waterfalls! There are more than 10,000 waterfalls in Iceland. And, probably only 200 of them have names. If you are planning an Iceland trip and trying to make a list of what places to go, you probably have heard of Skogafoss, Seljalandsfoss, and Gullfoss. But these are just a few of the best waterfalls in Iceland.
 
-During our two-week trip to Iceland, we drove along so many waterfalls. However, if you are going on a short trip or can’t make it to all of them, here is a list of our favorite 15 waterfalls in Iceland. Some of these are just a walk from your car and some may need a hike. 
+During our two-week trip to Iceland, we drove along so many waterfalls. However, if you are going on a short trip or can’t make it to all of them, here is a list of our favorite 15 waterfalls in Iceland. Some of these are just a short walk from your car and some may need a hike. 
 
-Here are our top 15 Iceland waterfalls with their exact location. You will find a map with all these waterfalls at the end.
+Here are our top 15 Iceland waterfalls with their exact location. You will find a [detail map below](#best-waterfalls-in-iceland-on-a-map).
 
 
 # Best Waterfalls in Iceland
@@ -60,7 +60,7 @@ Be prepared to get wet while going inside the cave. We would recommend having wa
 
 Hands down, Skogafoss is the most iconic and famous waterfall in Iceland. You can definitely feel the power of this waterfall while standing in front of it.
 
-If you want to have this popular waterfall for yourselves, be there early. If you are camping in Iceland, you can camp at the foot of this iconic waterfall, and visit it during Sunrise. We camped there and literally had this just for ourselves for over an hour.
+If you want to have this popular waterfall for yourselves, be there early. If you are camping in Iceland, you can camp at the foot of this iconic waterfall, and visit it during sunrise. We camped there and literally had this just for ourselves for over an hour.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/skogafoss.jpg){: .align-center .width-pct-50}
 
@@ -147,7 +147,7 @@ Goðafoss also called “Waterfall of the Gods” is one of the most beautiful s
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/godafoss.jpg){: .align-center .width-pct-80}
 
-**How to visit Goðafoss:** There are two viewpoints on either side of the river. Parking is free on both sides. It’s a popular place in Iceland. Visit there early in the morning or late afternoon, to get this place less crowded. 
+**How to visit Goðafoss:** There are two viewpoints on either side of the river. Parking is free on both sides. It’s a popular place in Iceland. Visit there early in the morning or late afternoon to get this place with less crowd. 
 
 
 
