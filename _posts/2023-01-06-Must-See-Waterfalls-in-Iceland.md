@@ -1,9 +1,15 @@
 ---
-title: "15 Must-see Waterfalls in Iceland!"
-layout: splash
-date: 2023-01-05T15:34:30-04:00
+title: "Must-see Waterfalls in Iceland!"
+classes: wide
 header:
   image: assets/images/hengifoss_header.jpg
+
+sidebar:
+  - title: "Nishat and Musa"
+    image: assets/images/nishatandmusa_profile_01.jpg
+    text: "Adventure travel photographers and content creators"
+
+#toc: true
 
 ---
 
