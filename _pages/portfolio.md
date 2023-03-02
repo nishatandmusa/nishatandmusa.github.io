@@ -15,7 +15,7 @@ gallery:
   - url: assets/images/big_island.jpg
     image_path: assets/images/big_island.jpg
     alt: "placeholder image"
-    title: "Black beach, Big Island, HI"
+    title: "Black sand beach, Big Island, HI"
   - url: assets/images/lake_louise.jpg
     image_path: assets/images/lake_louise.jpg
     alt: "placeholder image"
