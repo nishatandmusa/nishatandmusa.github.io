@@ -7,39 +7,39 @@ gallery:
   - url: assets/images/firefall.jpg
     image_path: assets/images/firefall.jpg
     alt: "placeholder image"
-    title: "Image 1 title caption"
+    title: "Yosemite Firefall"
   - url: assets/images/lupine_iceland.jpg
     image_path: assets/images/lupine_iceland.jpg
-    alt: "placeholder image"
+    alt: "Iceland church"
     title: "Image 1 title caption"
   - url: assets/images/big_island.jpg
     image_path: assets/images/big_island.jpg
     alt: "placeholder image"
-    title: "Image 1 title caption"
+    title: "Black beach, Big Island, HI"
   - url: assets/images/lake_louise.jpg
     image_path: assets/images/lake_louise.jpg
     alt: "placeholder image"
-    title: "Image 1 title caption"
+    title: "Lake Louise, Canada"
   - url: assets/images/volcano_big_island.jpg
     image_path: assets/images/volcano_big_island.jpg
     alt: "placeholder image"
-    title: "Image 1 title caption"
+    title: "Volcano, Bigh Island, HI"
   - url: assets/images/palouse.jpg
     image_path: assets/images/palouse.jpg
     alt: "placeholder image"
-    title: "Image 1 title caption"
+    title: "Palouse, WA"
   - url: assets/images/valley_of_tears_iceland.jpg
     image_path: assets/images/valley_of_tears_iceland.jpg
     alt: "placeholder image"
-    title: "Image 1 title caption"
+    title: "Valley of Tears, Iceland"
   - url: assets/images/lake_moraine.jpg
     image_path: assets/images/lake_moraine.jpg
     alt: "placeholder image"
-    title: "Image 1 title caption"
+    title: "Moraine lake, Candada"
   - url: assets/images/mcway_falls.jpg
     image_path: assets/images/mcway_falls.jpg
     alt: "placeholder image"
-    title: "Image 1 title caption"
+    title: "McWay falls, CA"
 
 
 ---
