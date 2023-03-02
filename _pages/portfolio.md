@@ -10,8 +10,8 @@ gallery:
     title: "Yosemite Firefall"
   - url: assets/images/lupine_iceland.jpg
     image_path: assets/images/lupine_iceland.jpg
-    alt: "Iceland church"
-    title: "Image 1 title caption"
+    alt: "placeholder image"
+    title: "White church, Iceland"
   - url: assets/images/big_island.jpg
     image_path: assets/images/big_island.jpg
     alt: "placeholder image"
@@ -23,7 +23,7 @@ gallery:
   - url: assets/images/volcano_big_island.jpg
     image_path: assets/images/volcano_big_island.jpg
     alt: "placeholder image"
-    title: "Volcano, Bigh Island, HI"
+    title: "Volcano, Big Island, HI"
   - url: assets/images/palouse.jpg
     image_path: assets/images/palouse.jpg
     alt: "placeholder image"
@@ -35,7 +35,7 @@ gallery:
   - url: assets/images/lake_moraine.jpg
     image_path: assets/images/lake_moraine.jpg
     alt: "placeholder image"
-    title: "Moraine lake, Candada"
+    title: "Moraine lake, Canada"
   - url: assets/images/mcway_falls.jpg
     image_path: assets/images/mcway_falls.jpg
     alt: "placeholder image"
