@@ -119,7 +119,7 @@ Carmel Mission Inn is located at a prime location in the beautiful Camel city. H
 
 
 ## Yosemite View Lodge
-Yosemite View Lodge is just located 5 minutes outside of the park entrance. Our project was to highlight the hotel amenities and the surrounding areas. 
+Yosemite View Lodge is located just 5 minutes outside of the park entrance. Our project was to highlight the hotel amenities and the surrounding areas. 
 
 {% include gallery id="gallery_yosemite_lodge" caption="" %}
 
