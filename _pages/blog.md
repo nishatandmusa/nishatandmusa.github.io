@@ -3,7 +3,7 @@ title: "Blog"
 layout: splash
 permalink: /blog/
 header:
-  image: assets/images/haifoss.jpg
+  image: assets/images/vestrahorn.jpg
 
 
 feature_row:
