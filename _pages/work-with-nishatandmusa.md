@@ -3,7 +3,56 @@ layout: splash
 permalink: /work-with-nishatandmusa/
 title: "Work with nishatandmusa"
 
-
+gallery_bend:
+  - url: assets/images/bend01.jpg
+    image_path: assets/images/bend01.jpg
+    alt: "placeholder image"
+    title: "Sunrise at Smith Rock state park"
+  - url: assets/images/bend02.jpg
+    image_path: assets/images/bend02.jpg
+    alt: "placeholder image"
+    title: "Painted cove trail, Painted Hills"
+  - url: assets/images/bend03.jpg
+    image_path: assets/images/bend03.jpg
+    alt: "placeholder image"
+    title: "Sunset at Painted Hills"
+  - url: assets/images/bend04.jpg
+    image_path: assets/images/bend04.jpg
+    alt: "placeholder image"
+    title: "Cascade lakes"
+  - url: assets/images/bend05.jpg
+    image_path: assets/images/bend05.jpg
+    alt: "placeholder image"
+    title: "Koosha falls"
+  - url: assets/images/bend06.jpg
+    image_path: assets/images/bend06.jpg
+    alt: "placeholder image"
+    title: "ATV adevnture at Bend, OR"
+gallery_bryce:
+  - url: assets/images/bryce01.jpg
+    image_path: assets/images/bryce01.jpg
+    alt: "placeholder image"
+    title: "Sunset at Bryce rim trail"
+  - url: assets/images/bryce02.jpg
+    image_path: assets/images/bryce02.jpg
+    alt: "placeholder image"
+    title: "Sunrise at Bryce point"
+  - url: assets/images/bryce03.jpg
+    image_path: assets/images/bryce03.jpg
+    alt: "placeholder image"
+    title: "Hiking among the hoodoos"
+  - url: assets/images/bryce04.jpg
+    image_path: assets/images/bryce04.jpg
+    alt: "placeholder image"
+    title: "Cosmic Ashtray, Escalante"
+  - url: assets/images/bryce05.jpg
+    image_path: assets/images/bryce05.jpg
+    alt: "placeholder image"
+    title: "Peekaboo slot canyon"
+  - url: assets/images/bryce06.jpg
+    image_path: assets/images/bryce06.jpg
+    alt: "placeholder image"
+    title: "Devils garden"
 gallery_cambria:
   - url: assets/images/cambria_ebike_01.jpg
     image_path: assets/images/cambria_ebike_01.jpg
@@ -105,6 +154,18 @@ gallery_yongnuo:
     alt: "placeholder image"
     title: "Photograph with Yongnuo lens"
 ---
+
+## Visit Bend, OR
+California is home to a lot of seaside towns and Cambria is definitely one of the best towns to visit. It has stunning beaches, sea cliffs, hiking and biking trails, and a cute little downtown. We worked on this project to highlight E-biking at the Fiscalini Ranch Preserve in Cambria.
+
+{% include gallery id="gallery_bend" caption="" %}
+
+
+## Bryce Canyon Country
+California is home to a lot of seaside towns and Cambria is definitely one of the best towns to visit. It has stunning beaches, sea cliffs, hiking and biking trails, and a cute little downtown. We worked on this project to highlight E-biking at the Fiscalini Ranch Preserve in Cambria.
+
+{% include gallery id="gallery_bryce" caption="" %}
+
 
 ## Visit Cambria
 California is home to a lot of seaside towns and Cambria is definitely one of the best towns to visit. It has stunning beaches, sea cliffs, hiking and biking trails, and a cute little downtown. We worked on this project to highlight E-biking at the Fiscalini Ranch Preserve in Cambria.
