@@ -156,7 +156,7 @@ gallery_yongnuo:
 ---
 
 ## Visit Bend, OR
-California is home to a lot of seaside towns and Cambria is definitely one of the best towns to visit. It has stunning beaches, sea cliffs, hiking and biking trails, and a cute little downtown. We worked on this project to highlight E-biking at the Fiscalini Ranch Preserve in Cambria.
+Bend is a beautiful city in central Oregon with a huge variety of epic landscapes including numerous waterfalls, cascade mountains, caves, volcanoes, and unique rock formations. We worked with Visit Bend to explore and capture the natural beauty and adventure opportunities in Bend and it's sorrounding. 
 
 {% include gallery id="gallery_bend" caption="" %}
 
