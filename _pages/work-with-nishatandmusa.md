@@ -78,6 +78,31 @@ gallery_cambria:
     image_path: assets/images/cambria_sunset_01.jpg
     alt: "placeholder image"
     title: "Sunset at Moonstone beach, Cambria"
+gallery_advenire:
+  - url: assets/images/advenire01.jpg
+    image_path: assets/images/advenire01.jpg
+    alt: "placeholder image"
+    title: "The Advenire by Marriott, St. George, Utah"
+  - url: assets/images/advenire02.jpg
+    image_path: assets/images/advenire02.jpg
+    alt: "placeholder image"
+    title: "The Advenire by Marriott, St. George, Utah"
+  - url: assets/images/advenire03.jpg
+    image_path: assets/images/advenire03.jpg
+    alt: "placeholder image"
+    title: "The Advenire by Marriott, St. George, Utah"
+  - url: assets/images/advenire04.jpg
+    image_path: assets/images/advenire04.jpg
+    alt: "placeholder image"
+    title: "The Advenire by Marriott, St. George, Utah"
+  - url: assets/images/advenire05.jpg
+    image_path: assets/images/advenire05.jpg
+    alt: "placeholder image"
+    title: "The Advenire by Marriott, St. George, Utah"
+  - url: assets/images/advenire06.jpg
+    image_path: assets/images/advenire06.jpg
+    alt: "placeholder image"
+    title: "The Advenire by Marriott, St. George, Utah"
 gallery_carmel:
   - url: assets/images/carmel_01.jpg
     image_path: assets/images/carmel_01.jpg
@@ -156,7 +181,7 @@ gallery_yongnuo:
 ---
 
 ## Visit Bend, OR
-end is a beautiful city in central Oregon with a huge variety of epic landscapes including numerous waterfalls, cascade mountains, caves, volcanoes, and unique rock formations. We worked with [Visit Bend](https://www.visitbend.com) to capture the natural beauty and adventure opportunities in Bend and it's surrounding.
+Bend is a beautiful city in central Oregon with a huge variety of epic landscapes including numerous waterfalls, cascade mountains, caves, volcanoes, and unique rock formations. We worked with [Visit Bend](https://www.visitbend.com) to capture the natural beauty and adventure opportunities in Bend and it's surrounding.
 
 {% include gallery id="gallery_bend" caption="" %}
 
@@ -171,6 +196,11 @@ Bryce Canyon Country is a stunning destination in southern Utah, renowned for it
 California is home to a lot of seaside towns and [Cambria](https://visitcambriaca.com) is definitely one of the best towns to visit. It has stunning beaches, sea cliffs, hiking and biking trails, and a cute little downtown. We worked on this project to highlight E-biking at the Fiscalini Ranch Preserve in Cambria.
 
 {% include gallery id="gallery_cambria" caption="" %}
+
+
+## The Advenire by Marriott
+[The Advenire hotel](https://theadvenirehotel.com) is centrally locaated at St. George, Utah, which is the perfect home base for exploring Zion National Park and other beautiful attractions nearby. In this project, we worked with Advenire to highlight its luxury features and closeness to all natural spots nearby.
+{% include gallery id="gallery_advenire" caption="" %}
 
 
 ## Carmel Mission Inn
