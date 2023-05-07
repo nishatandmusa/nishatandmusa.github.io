@@ -153,6 +153,19 @@ gallery_yosemite_lodge:
     image_path: assets/images/yosemite_lodge_06.jpg
     alt: "placeholder image"
     title: "Yosemite view lodge"
+gallery_nomatic:
+  - url: assets/images/nomatic01.jpg
+    image_path: assets/images/nomatic01.jpg
+    alt: "placeholder image"
+    title: "Nomatic travel camera bag"
+  - url: assets/images/nomatic02.jpg
+    image_path: assets/images/nomatic02.jpg
+    alt: "placeholder image"
+    title: "Nomatic travel camera bag"
+  - url: assets/images/nomatic03.jpg
+    image_path: assets/images/nomatic03.jpg
+    alt: "placeholder image"
+    title: "Nomatic travel camera bag"    
 gallery_yongnuo:
   - url: assets/images/yongnuo_01.jpg
     image_path: assets/images/yongnuo_01.jpg
@@ -213,6 +226,11 @@ California is home to a lot of seaside towns and [Cambria](https://visitcambriac
 [Yosemite View Lodge](https://www.yosemiteresorts.com/yosemite-view-lodge/) is located just 5 minutes outside of the park entrance. Our project was to highlight the hotel amenities and the surrounding areas. 
 
 {% include gallery id="gallery_yosemite_lodge" caption="" %}
+
+## Nomatic
+[Nomatic](https://www.nomatic.com) is one of the industry leaders in high quality and functional camera backpacks. In this collaboration, we worked with Nomatic to showcase the Peter McKinnon 35L travel camera backpack. 
+
+{% include gallery id="gallery_nomatic" caption="" %}
 
 
 ## Yongnuo Photography
