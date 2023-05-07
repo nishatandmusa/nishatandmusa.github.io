@@ -162,31 +162,31 @@ end is a beautiful city in central Oregon with a huge variety of epic landscapes
 
 
 ## Bryce Canyon Country
-California is home to a lot of seaside towns and Cambria is definitely one of the best towns to visit. It has stunning beaches, sea cliffs, hiking and biking trails, and a cute little downtown. We worked on this project to highlight E-biking at the Fiscalini Ranch Preserve in Cambria.
+Bryce Canyon Country is a stunning destination in southern Utah, renowned for its awe-inspiring natural beauty, unique rock formations, and an array of exciting outdoor activities. In this project, we worked with [Bryce Canyon Country](https://www.brycecanyoncountry.com) tourism board to showcase the Bryce Canyon National Park Grand Staircase-Escalante National Monument.
 
 {% include gallery id="gallery_bryce" caption="" %}
 
 
 ## Visit Cambria
-California is home to a lot of seaside towns and Cambria is definitely one of the best towns to visit. It has stunning beaches, sea cliffs, hiking and biking trails, and a cute little downtown. We worked on this project to highlight E-biking at the Fiscalini Ranch Preserve in Cambria.
+California is home to a lot of seaside towns and [Cambria](https://visitcambriaca.com) is definitely one of the best towns to visit. It has stunning beaches, sea cliffs, hiking and biking trails, and a cute little downtown. We worked on this project to highlight E-biking at the Fiscalini Ranch Preserve in Cambria.
 
 {% include gallery id="gallery_cambria" caption="" %}
 
 
 ## Carmel Mission Inn
-Carmel Mission Inn is located at a prime location in the beautiful Camel city. Highway 1 is just beside this hotel and the perfect place to start a road trip to Big Sur. We designed content to highlight the beautiful hotel and surrounding areas. 
+[Carmel Mission Inn](https://www.carmelmissioninn.com) is located at a prime location in the beautiful Camel city. Highway 1 is just beside this hotel and the perfect place to start a road trip to Big Sur. We designed content to highlight the beautiful hotel and surrounding areas. 
 
 {% include gallery id="gallery_carmel" caption="" %}
 
 
 ## Yosemite View Lodge
-Yosemite View Lodge is located just 5 minutes outside of the park entrance. Our project was to highlight the hotel amenities and the surrounding areas. 
+[Yosemite View Lodge](https://www.yosemiteresorts.com/yosemite-view-lodge/) is located just 5 minutes outside of the park entrance. Our project was to highlight the hotel amenities and the surrounding areas. 
 
 {% include gallery id="gallery_yosemite_lodge" caption="" %}
 
 
 ## Yongnuo Photography
-Yongnuo photography released their new lenses for the Nikon Z mirrorless system. In this project, we worked on featuring their 35mm f2 and 85mm f1.8 lenses for Nikon Z mirrorless cameras. 
+[Yongnuo photography](https://yongnuousa.net) released their new lenses for the Nikon Z mirrorless system. In this project, we worked on featuring their 35mm f2 and 85mm f1.8 lenses for Nikon Z mirrorless cameras. 
 
 {% include gallery id="gallery_yongnuo" caption="" %}
 
