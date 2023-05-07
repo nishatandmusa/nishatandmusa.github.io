@@ -40,8 +40,30 @@ gallery:
     image_path: assets/images/mcway_falls.jpg
     alt: "placeholder image"
     title: "McWay falls, CA"
-
-
+  - url: assets/images/bryce01.jpg
+    image_path: assets/images/bryce01.jpg
+    alt: "placeholder image"
+    title: "Bryce canyon national park"
+  - url: assets/images/bryce02.jpg
+    image_path: assets/images/bryce02.jpg
+    alt: "placeholder image"
+    title: "Bryce canyon national park"
+  - url: assets/images/bryce04.jpg
+    image_path: assets/images/bryce04.jpg
+    alt: "placeholder image"
+    title: "Cosmic ashtray, Escalante"
+  - url: assets/images/bend01.jpg
+    image_path: assets/images/bend01.jpg
+    alt: "placeholder image"
+    title: "Smith Rock state park, OR"
+  - url: assets/images/bend03.jpg
+    image_path: assets/images/bend03.jpg
+    alt: "placeholder image"
+    title: "Painted hills, OR"    
+  - url: assets/images/bend05.jpg
+    image_path: assets/images/bend05.jpg
+    alt: "placeholder image"
+    title: "Koosha falls, Bend, OR"
 ---
 
 
