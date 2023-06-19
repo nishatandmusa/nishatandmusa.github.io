@@ -191,6 +191,31 @@ gallery_yongnuo:
     image_path: assets/images/yongnuo_06.jpg
     alt: "placeholder image"
     title: "Photograph with Yongnuo lens"
+gallery_peacevan:
+  - url: assets/images/peacevan_01.jpg
+    image_path: assets/images/peacevan_01.jpg
+    alt: "placeholder image"
+    title: "Peacevan"
+  - url: assets/images/peacevan_02.jpg
+    image_path: assets/images/peacevan_02.jpg
+    alt: "placeholder image"
+    title: "Peacevan"
+  - url: assets/images/peacevan_03.jpg
+    image_path: assets/images/peacevan_03.jpg
+    alt: "placeholder image"
+    title: "Peacevan"
+  - url: assets/images/peacevan_04.jpg
+    image_path: assets/images/peacevan_04.jpg
+    alt: "placeholder image"
+    title: "Peacevan"
+  - url: assets/images/peacevan_05.jpg
+    image_path: assets/images/peacevan_05.jpg
+    alt: "placeholder image"
+    title: "Peacevan"
+  - url: assets/images/peacevan_06.jpg
+    image_path: assets/images/peacevan_06.jpg
+    alt: "placeholder image"
+    title: "Peacevan"
 ---
 
 ## Visit Bend, OR
@@ -203,6 +228,12 @@ Bend is a beautiful city in central Oregon with a huge variety of epic landscape
 Bryce Canyon Country is a stunning destination in southern Utah, renowned for its awe-inspiring natural beauty, unique rock formations, and an array of exciting outdoor activities. In this project, we worked with [Bryce Canyon Country](https://www.brycecanyoncountry.com) tourism board to showcase the Bryce Canyon National Park Grand Staircase-Escalante National Monument.
 
 {% include gallery id="gallery_bryce" caption="" %}
+
+
+## Peace Vans
+[Peace Vans](https://www.peacevans.com) builts and rents both modern and classic vans in the Nortwest USA. In this project, we showcased their modern van in the Olympic National Park.
+
+{% include gallery id="gallery_peacevan" caption="" %}
 
 
 ## Visit Cambria
