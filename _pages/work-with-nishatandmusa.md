@@ -236,12 +236,6 @@ Bryce Canyon Country is a stunning destination in southern Utah, renowned for it
 {% include gallery id="gallery_peacevan" caption="" %}
 
 
-## Visit Cambria
-California is home to a lot of seaside towns and [Cambria](https://visitcambriaca.com) is definitely one of the best towns to visit. It has stunning beaches, sea cliffs, hiking and biking trails, and a cute little downtown. We worked on this project to highlight E-biking at the Fiscalini Ranch Preserve in Cambria.
-
-{% include gallery id="gallery_cambria" caption="" %}
-
-
 ## The Advenire by Marriott
 [The Advenire hotel](https://theadvenirehotel.com) is centrally locaated at St. George, Utah, which is the perfect home base for exploring Zion National Park and other beautiful attractions nearby. In this project, we worked with Advenire to highlight its luxury features and closeness to all natural spots nearby.
 {% include gallery id="gallery_advenire" caption="" %}
@@ -253,15 +247,21 @@ California is home to a lot of seaside towns and [Cambria](https://visitcambriac
 {% include gallery id="gallery_carmel" caption="" %}
 
 
-## Yosemite View Lodge
-[Yosemite View Lodge](https://www.yosemiteresorts.com/yosemite-view-lodge/) is located just 5 minutes outside of the park entrance. Our project was to highlight the hotel amenities and the surrounding areas. 
+## Visit Cambria
+California is home to a lot of seaside towns and [Cambria](https://visitcambriaca.com) is definitely one of the best towns to visit. It has stunning beaches, sea cliffs, hiking and biking trails, and a cute little downtown. We worked on this project to highlight E-biking at the Fiscalini Ranch Preserve in Cambria.
 
-{% include gallery id="gallery_yosemite_lodge" caption="" %}
+{% include gallery id="gallery_cambria" caption="" %}
 
 ## Nomatic
 [Nomatic](https://www.nomatic.com) is one of the industry leaders in high quality and functional camera backpacks. In this collaboration, we worked with Nomatic to showcase the Peter McKinnon 35L travel camera backpack. 
 
 {% include gallery id="gallery_nomatic" caption="" %}
+
+
+## Yosemite View Lodge
+[Yosemite View Lodge](https://www.yosemiteresorts.com/yosemite-view-lodge/) is located just 5 minutes outside of the park entrance. Our project was to highlight the hotel amenities and the surrounding areas. 
+
+{% include gallery id="gallery_yosemite_lodge" caption="" %}
 
 
 ## Yongnuo Photography
