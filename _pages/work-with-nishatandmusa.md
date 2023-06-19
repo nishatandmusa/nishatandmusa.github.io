@@ -246,16 +246,16 @@ Bryce Canyon Country is a stunning destination in southern Utah, renowned for it
 
 {% include gallery id="gallery_carmel" caption="" %}
 
+## Nomatic
+[Nomatic](https://www.nomatic.com) is one of the industry leaders in high quality and functional camera backpacks. In this collaboration, we worked with Nomatic to showcase the Peter McKinnon 35L travel camera backpack. 
+
+{% include gallery id="gallery_nomatic" caption="" %}
+
 
 ## Visit Cambria
 California is home to a lot of seaside towns and [Cambria](https://visitcambriaca.com) is definitely one of the best towns to visit. It has stunning beaches, sea cliffs, hiking and biking trails, and a cute little downtown. We worked on this project to highlight E-biking at the Fiscalini Ranch Preserve in Cambria.
 
 {% include gallery id="gallery_cambria" caption="" %}
-
-## Nomatic
-[Nomatic](https://www.nomatic.com) is one of the industry leaders in high quality and functional camera backpacks. In this collaboration, we worked with Nomatic to showcase the Peter McKinnon 35L travel camera backpack. 
-
-{% include gallery id="gallery_nomatic" caption="" %}
 
 
 ## Yosemite View Lodge
