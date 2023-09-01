@@ -216,6 +216,31 @@ gallery_peacevan:
     image_path: assets/images/peacevan_06.jpg
     alt: "placeholder image"
     title: "Peacevan"
+gallery_walden:
+  - url: assets/images/walden_01.jpg
+    image_path: assets/images/walden_01.jpg
+    alt: "placeholder image"
+    title: "Walden campervan"
+  - url: assets/images/walden_02.jpg
+    image_path: assets/images/walden_02.jpg
+    alt: "placeholder image"
+    title: "Walden campervan"
+  - url: assets/images/walden_03.jpg
+    image_path: assets/images/walden_03.jpg
+    alt: "placeholder image"
+    title: "Walden campervan"
+  - url: assets/images/walden_04.jpg
+    image_path: assets/images/walden_04.jpg
+    alt: "placeholder image"
+    title: "Walden campervan"
+  - url: assets/images/walden_05.jpg
+    image_path: assets/images/walden_05.jpg
+    alt: "placeholder image"
+    title: "Walden campervan"
+  - url: assets/images/walden_06.jpg
+    image_path: assets/images/walden_06.jpg
+    alt: "placeholder image"
+    title: "Walden campervan"    
 ---
 # Photography Examples
 
@@ -229,6 +254,13 @@ Bend is a beautiful city in central Oregon with a huge variety of epic landscape
 Bryce Canyon Country is a stunning destination in southern Utah, renowned for its awe-inspiring natural beauty, unique rock formations, and an array of exciting outdoor activities. In this project, we worked with [Bryce Canyon Country](https://www.brycecanyoncountry.com) tourism board to showcase the Bryce Canyon National Park Grand Staircase-Escalante National Monument.
 
 {% include gallery id="gallery_bryce" caption="" %}
+
+
+## Walden Campervans
+[Walden Campervans](https://www.waldencampervans.com) is a New England based campervan company with the goal to bring people closer to the nature. In this project, we showcased their amazing campervan at Acadia National Park in Maine. 
+
+{% include gallery id="gallery_walden" caption="" %}
+
 
 
 ## Peace Vans
