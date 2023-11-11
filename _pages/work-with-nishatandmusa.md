@@ -245,7 +245,7 @@ gallery_walden:
 # Photography Examples
 
 ## Visit Bend, OR
-Bend is a beautiful city in central Oregon with a huge variety of epic landscapes including numerous waterfalls, cascade mountains, caves, volcanoes, and unique rock formations. We worked with [Visit Bend](https://www.visitbend.com) to capture the natural beauty and adventure opportunities in Bend and it's surrounding.
+Bend is a beautiful city in central Oregon with a large variety of epic landscapes including numerous waterfalls, cascade mountains, caves, volcanoes, and unique rock formations. We worked with [Visit Bend](https://www.visitbend.com) to capture the natural beauty and adventure opportunities in Bend and it's surrounding.
 
 {% include gallery id="gallery_bend" caption="" %}
 
