@@ -4,6 +4,18 @@ permalink: /work-with-nishatandmusa/
 title: "Work with nishatandmusa"
 
 gallery_hotels:
+  - url: assets/images/casa_kimberly_01.jpg
+    image_path: assets/images/casa_kimberly_01.jpg
+    alt: "placeholder image"
+    title: "Casa Kimberly, Puerto Vallarta, Mexico"
+  - url: assets/images/casa_kimberly_02.jpg
+    image_path: assets/images/casa_kimberly_02.jpg
+    alt: "placeholder image"
+    title: "Casa Kimberly, Puerto Vallarta, Mexico"
+  - url: assets/images/national_02.jpg
+    image_path: assets/images/national_02.jpg
+    alt: "placeholder image"
+    title: "Hotel National, Zermatt, Switzerland"
   - url: assets/images/advenire02.jpg
     image_path: assets/images/advenire02.jpg
     alt: "placeholder image"
@@ -16,10 +28,10 @@ gallery_hotels:
     image_path: assets/images/advenire04.jpg
     alt: "placeholder image"
     title: "The Advenire by Marriott, St. George, Utah"
-  - url: assets/images/national_02.jpg
-    image_path: assets/images/national_02.jpg
+  - url: assets/images/bryce_escalante_01.jpg
+    image_path: assets/images/bryce_escalante_01.jpg
     alt: "placeholder image"
-    title: "Hotel National, Zermatt, Switzerland"
+    title: "Escalante Escapes, Utah"
   - url: assets/images/st_mortiz_01.jpg
     image_path: assets/images/st_mortiz_01.jpg
     alt: "placeholder image"
@@ -28,6 +40,18 @@ gallery_hotels:
     image_path: assets/images/angelo_03.jpg
     alt: "placeholder image"
     title: "Hotel Angelo Engel, Ortisei, Italy"
+  - url: assets/images/casa_kimberly_03.jpg
+    image_path: assets/images/casa_kimberly_03.jpg
+    alt: "placeholder image"
+    title: "Casa Kimberly, Puerto Vallarta, Mexico"
+  - url: assets/images/casa_kimberly_04.jpg
+    image_path: assets/images/casa_kimberly_04.jpg
+    alt: "placeholder image"
+    title: "Casa Kimberly, Puerto Vallarta, Mexico"
+  - url: assets/images/casa_kimberly_05.jpg
+    image_path: assets/images/casa_kimberly_05.jpg
+    alt: "placeholder image"
+    title: "Casa Kimberly, Puerto Vallarta, Mexico"
   - url: assets/images/carmel_04.jpg
     image_path: assets/images/carmel_04.jpg
     alt: "placeholder image"
