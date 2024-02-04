@@ -113,6 +113,10 @@ gallery_tourism:
     image_path: assets/images/idaho_06.jpg
     alt: "placeholder image"
     title: "Shoshone Falls, Idaho"
+  - url: assets/images/idaho_01.jpg
+    image_path: assets/images/idaho_01.jpg
+    alt: "placeholder image"
+    title: "Perrine Coulee Waterfall, Idaho"
   - url: assets/images/idaho_02.jpg
     image_path: assets/images/idaho_02.jpg
     alt: "placeholder image"
@@ -125,6 +129,14 @@ gallery_tourism:
     image_path: assets/images/idaho_04.jpg
     alt: "placeholder image"
     title: "Craters of the Moon, Idaho"
+  - url: assets/images/idaho_08.jpg
+    image_path: assets/images/idaho_08.jpg
+    alt: "placeholder image"
+    title: "Blue Heart Springs, Idaho"
+  - url: assets/images/cambria_sunset_01.jpg
+    image_path: assets/images/cambria_sunset_01.jpg
+    alt: "placeholder image"
+    title: "Moonstone beach, Cambria"
   - url: assets/images/bend01.jpg
     image_path: assets/images/bend01.jpg
     alt: "placeholder image"
@@ -137,14 +149,20 @@ gallery_tourism:
     image_path: assets/images/bend06.jpg
     alt: "placeholder image"
     title: "ATV adevnture at Bend, OR"
-  - url: assets/images/bryce03.jpg
-    image_path: assets/images/bryce03.jpg
-    alt: "placeholder image"
-    title: "Hiking among the hoodoos"
   - url: assets/images/bryce04.jpg
     image_path: assets/images/bryce04.jpg
     alt: "placeholder image"
     title: "Cosmic Ashtray, Escalante"
+  - url: assets/images/bryce03.jpg
+    image_path: assets/images/bryce03.jpg
+    alt: "placeholder image"
+    title: "Hiking among the hoodoos"
+  - url: assets/images/bryce_sunrise.jpg
+    image_path: assets/images/bryce_sunrise.jpg
+    alt: "placeholder image"
+    title: "Bryce Canyon at Sunrise"
+
+  
 gallery_cambria:
   - url: assets/images/cambria_ebike_01.jpg
     image_path: assets/images/cambria_ebike_01.jpg
