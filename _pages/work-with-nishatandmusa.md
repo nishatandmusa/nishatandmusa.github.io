@@ -369,7 +369,7 @@ We worked with New England based campervan company [Walden Campervans](https://w
 
 
 ## Products
-We worked on various product photography such as [Nomatic](https://www.nomatic.com) camera backpack, [Wolverine](https://www.wolverine.com) shoes, [Allbirds](https://www.allbirds.com) shoes, [Oros](https://www.orosapparel.com) Jackets, [Ebike](https://velocambria.com), and [Magbanq](https://www.magbanq.com) powerbank.
+We worked on various product photography such as [Nomatic](https://www.nomatic.com) camera backpack, [Wolverine](https://www.wolverine.com) shoes, [Allbirds](https://www.allbirds.com) shoes, [Oros apparel](https://www.orosapparel.com), [Ebike](https://velocambria.com), and [Magbanq](https://www.magbanq.com) powerbank.
 
 {% include gallery id="gallery_products" caption="" %}
 
