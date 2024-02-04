@@ -235,8 +235,6 @@ gallery_products:
     image_path: assets/images/magbanq_01.jpg
     alt: "placeholder image"
     title: "Magbanq battery"
-
-
 gallery_cambria:
   - url: assets/images/cambria_ebike_01.jpg
     image_path: assets/images/cambria_ebike_01.jpg
