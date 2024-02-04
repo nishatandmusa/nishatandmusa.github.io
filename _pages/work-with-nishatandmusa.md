@@ -224,11 +224,11 @@ gallery_products:
     alt: "placeholder image"
     title: "Oros shoe"
   - url: assets/images/cambria_ebike_01.jpg
-    image_path: assets/images/cambira_ebike_01.jpg
+    image_path: assets/images/cambria_ebike_01.jpg
     alt: "placeholder image"
     title: "Ebike"
   - url: assets/images/cambria_ebike_03.jpg
-    image_path: assets/images/cambira_ebike_03.jpg
+    image_path: assets/images/cambria_ebike_03.jpg
     alt: "placeholder image"
     title: "Ebike"
   - url: assets/images/magbanq_01.jpg
