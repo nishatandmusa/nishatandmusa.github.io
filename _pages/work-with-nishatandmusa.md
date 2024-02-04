@@ -280,7 +280,7 @@ gallery_walden:
 # Photography Examples
 
 ## Hotels and Resorts
-We worked with various hotels and resorts in USA and abroad. Here are some of our photography examples from Hotel Advenire by Marriott in Utah, Casa Kimberly, Puerto Vallarta, Mexico, Carmel Mission Inn, California, Yosemite View Lodge, California,  Hotel National, Zermatt, Switzerland, Hotel Schweizerhof, St. Mortiz, Switzerland, Deltapark Vitalresort, Thun, Switzerland, and Hotel Angelo Engel, Ortisei, Italy.
+We worked with various hotels and resorts in USA and abroad. Here are some of our photography examples from Hotel Advenire by Marriott in Utah, Casa Kimberly in Mexico, Carmel Mission Inn in California, Yosemite View Lodge in California,  Hotel National Zermatt in Switzerland, Hotel Schweizerhof St. Moritz in Switzerland, Deltapark Vitalresort in Switzerland, and Hotel Angelo Engel in Italy.
 
 {% include gallery id="gallery_hotels" caption="" %}
 
