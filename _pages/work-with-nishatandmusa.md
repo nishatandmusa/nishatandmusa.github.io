@@ -272,6 +272,7 @@ We worked with various hotels and resorts in USA and abroad. Here are some of ou
 ## Tourism boards
 We worked with various tourism boards such as State of Washington Tourism, Visit Southern Idaho, Visit Bend, Bryce Canyon Country, and Visit Cambria. Below are some example images from these collaborations.
 
+{% include gallery id="gallery_tourism" caption="" %}
 
 ## Walden Campervans
 [Walden Campervans](https://www.waldencampervans.com) is a New England based campervan company with the goal to bring people closer to the nature. In this project, we showcased their amazing campervan at Acadia National Park in Maine. 
