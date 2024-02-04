@@ -162,22 +162,6 @@ gallery_tourism:
     alt: "placeholder image"
     title: "Bryce Canyon at Sunrise"
 gallery_campervan:
-  - url: assets/images/peacevan_01.jpg
-    image_path: assets/images/peacevan_01.jpg
-    alt: "placeholder image"
-    title: "Peacevan"
-  - url: assets/images/peacevan_03.jpg
-    image_path: assets/images/peacevan_03.jpg
-    alt: "placeholder image"
-    title: "Peacevan"
-  - url: assets/images/peacevan_04.jpg
-    image_path: assets/images/peacevan_04.jpg
-    alt: "placeholder image"
-    title: "Peacevan"
-  - url: assets/images/peacevan_06.jpg
-    image_path: assets/images/peacevan_06.jpg
-    alt: "placeholder image"
-    title: "Peacevan"
   - url: assets/images/walden_01.jpg
     image_path: assets/images/walden_01.jpg
     alt: "placeholder image"
@@ -197,7 +181,28 @@ gallery_campervan:
   - url: assets/images/walden_06.jpg
     image_path: assets/images/walden_06.jpg
     alt: "placeholder image"
-    title: "Walden campervan"      
+    title: "Walden campervan"
+  - url: assets/images/peacevan_01.jpg
+    image_path: assets/images/peacevan_01.jpg
+    alt: "placeholder image"
+    title: "Peacevan"
+  - url: assets/images/peacevan_02.jpg
+    image_path: assets/images/peacevan_02.jpg
+    alt: "placeholder image"
+    title: "Peacevan"
+  - url: assets/images/peacevan_04.jpg
+    image_path: assets/images/peacevan_04.jpg
+    alt: "placeholder image"
+    title: "Peacevan"
+  - url: assets/images/peacevan_05.jpg
+    image_path: assets/images/peacevan_05.jpg
+    alt: "placeholder image"
+    title: "Peacevan"
+  - url: assets/images/peacevan_06.jpg
+    image_path: assets/images/peacevan_06.jpg
+    alt: "placeholder image"
+    title: "Peacevan"
+
 gallery_cambria:
   - url: assets/images/cambria_ebike_01.jpg
     image_path: assets/images/cambria_ebike_01.jpg
