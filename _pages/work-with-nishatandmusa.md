@@ -161,8 +161,43 @@ gallery_tourism:
     image_path: assets/images/bryce_sunrise.jpg
     alt: "placeholder image"
     title: "Bryce Canyon at Sunrise"
-
-  
+gallery_campervan:
+  - url: assets/images/peacevan_01.jpg
+    image_path: assets/images/peacevan_01.jpg
+    alt: "placeholder image"
+    title: "Peacevan"
+  - url: assets/images/peacevan_03.jpg
+    image_path: assets/images/peacevan_03.jpg
+    alt: "placeholder image"
+    title: "Peacevan"
+  - url: assets/images/peacevan_04.jpg
+    image_path: assets/images/peacevan_04.jpg
+    alt: "placeholder image"
+    title: "Peacevan"
+  - url: assets/images/peacevan_06.jpg
+    image_path: assets/images/peacevan_06.jpg
+    alt: "placeholder image"
+    title: "Peacevan"
+  - url: assets/images/walden_01.jpg
+    image_path: assets/images/walden_01.jpg
+    alt: "placeholder image"
+    title: "Walden campervan"
+  - url: assets/images/walden_03.jpg
+    image_path: assets/images/walden_03.jpg
+    alt: "placeholder image"
+    title: "Walden campervan"
+  - url: assets/images/walden_04.jpg
+    image_path: assets/images/walden_04.jpg
+    alt: "placeholder image"
+    title: "Walden campervan"
+  - url: assets/images/walden_05.jpg
+    image_path: assets/images/walden_05.jpg
+    alt: "placeholder image"
+    title: "Walden campervan"
+  - url: assets/images/walden_06.jpg
+    image_path: assets/images/walden_06.jpg
+    alt: "placeholder image"
+    title: "Walden campervan"      
 gallery_cambria:
   - url: assets/images/cambria_ebike_01.jpg
     image_path: assets/images/cambria_ebike_01.jpg
@@ -290,17 +325,11 @@ We worked with various tourism boards such as State of Washington Tourism, Visit
 
 {% include gallery id="gallery_tourism" caption="" %}
 
-## Walden Campervans
-[Walden Campervans](https://www.waldencampervans.com) is a New England based campervan company with the goal to bring people closer to the nature. In this project, we showcased their amazing campervan at Acadia National Park in Maine. 
 
-{% include gallery id="gallery_walden" caption="" %}
+## Campervans
+We worked with New England based campervan company [Walden Campervans](https://www.waldencampervans.com), and we showcased their amazing campervan at Acadia National Park in Maine. We also worked with [Peace Vans](https://www.peacevans.com) in Nortwest USA. In this project, we showcased their modern van in the Olympic National Park.
 
-
-
-## Peace Vans
-[Peace Vans](https://www.peacevans.com) builts and rents both modern and classic vans in the Nortwest USA. In this project, we showcased their modern van in the Olympic National Park.
-
-{% include gallery id="gallery_peacevan" caption="" %}
+{% include gallery id="gallery_campervan" caption="" %}
 
 
 ## Nomatic
