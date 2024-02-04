@@ -222,7 +222,7 @@ gallery_products:
   - url: assets/images/oros_01.jpg
     image_path: assets/images/oros_01.jpg
     alt: "placeholder image"
-    title: "Oros shoe"
+    title: "Oros jacket"
   - url: assets/images/cambria_ebike_01.jpg
     image_path: assets/images/cambria_ebike_01.jpg
     alt: "placeholder image"
