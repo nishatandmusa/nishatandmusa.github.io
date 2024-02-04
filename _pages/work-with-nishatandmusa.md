@@ -174,10 +174,6 @@ gallery_campervan:
     image_path: assets/images/walden_04.jpg
     alt: "placeholder image"
     title: "Walden campervan"
-  - url: assets/images/walden_05.jpg
-    image_path: assets/images/walden_05.jpg
-    alt: "placeholder image"
-    title: "Walden campervan"
   - url: assets/images/walden_06.jpg
     image_path: assets/images/walden_06.jpg
     alt: "placeholder image"
