@@ -198,6 +198,44 @@ gallery_campervan:
     image_path: assets/images/peacevan_06.jpg
     alt: "placeholder image"
     title: "Peacevan"
+gallery_products:
+  - url: assets/images/nomatic01.jpg
+    image_path: assets/images/nomatic01.jpg
+    alt: "placeholder image"
+    title: "Nomatic travel camera bag"
+  - url: assets/images/nomatic02.jpg
+    image_path: assets/images/nomatic02.jpg
+    alt: "placeholder image"
+    title: "Nomatic travel camera bag"
+  - url: assets/images/wolverine_01.jpg
+    image_path: assets/images/wolverine_01.jpg
+    alt: "placeholder image"
+    title: "Wolverine 1000 Miles shoe"
+  - url: assets/images/wolverine_03.jpg
+    image_path: assets/images/wolverine_03.jpg
+    alt: "placeholder image"
+    title: "Wolverine waterproof shoe"
+  - url: assets/images/allbirds_01.jpg
+    image_path: assets/images/allbirds_01.jpg
+    alt: "placeholder image"
+    title: "Allbirds shoe"
+  - url: assets/images/oros_01.jpg
+    image_path: assets/images/oros_01.jpg
+    alt: "placeholder image"
+    title: "Oros shoe"
+  - url: assets/images/cambria_ebike_01.jpg
+    image_path: assets/images/cambira_ebike_01.jpg
+    alt: "placeholder image"
+    title: "Ebike"
+  - url: assets/images/cambria_ebike_03.jpg
+    image_path: assets/images/cambira_ebike_03.jpg
+    alt: "placeholder image"
+    title: "Ebike"
+  - url: assets/images/magbanq_01.jpg
+    image_path: assets/images/magbanq_01.jpg
+    alt: "placeholder image"
+    title: "Magbanq battery"
+
 
 gallery_cambria:
   - url: assets/images/cambria_ebike_01.jpg
@@ -333,10 +371,10 @@ We worked with New England based campervan company [Walden Campervans](https://w
 {% include gallery id="gallery_campervan" caption="" %}
 
 
-## Nomatic
-[Nomatic](https://www.nomatic.com) is one of the industry leaders in high quality and functional camera backpacks. In this collaboration, we worked with Nomatic to showcase the Peter McKinnon 35L travel camera backpack. 
+## Products
+We worked on various product photography such as Nomatic camera backpack, Wolverine shoes, Allbirds shoes, Oros Jackets, Ebike, and Magbanq powerbank.
 
-{% include gallery id="gallery_nomatic" caption="" %}
+{% include gallery id="gallery_products" caption="" %}
 
 
 ## Yongnuo Photography
