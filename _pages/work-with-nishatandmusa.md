@@ -352,16 +352,15 @@ gallery_walden:
 # Photography Examples
 
 ## Hotels and Resorts
-We worked with various hotels and resorts in USA and abroad. Here are some of our photography examples from Hotel Advenire by Marriott in Utah, Casa Kimberly in Mexico, Carmel Mission Inn in California, Yosemite View Lodge in California,  Hotel National Zermatt in Switzerland, Hotel Schweizerhof St. Moritz in Switzerland, Deltapark Vitalresort in Switzerland, and Hotel Angelo Engel in Italy.
+We worked with various hotels and resorts in USA and abroad. Here are some of our photography examples from Hotel [Advenire by Marriott](https://theadvenirehotel.com) in Utah, [Casa Kimberly](https://casakimberly.com/) in Mexico, [Carmel Mission Inn](https://www.carmelmissioninn.com) in California, [Yosemite View Lodge](https://www.stayyosemiteviewlodge.com) in California, [Hotel National Zermatt](https://nationalzermatt.ch/en) in Switzerland, [Hotel Schweizerhof St. Moritz](https://schweizerhofstmoritz.ch) in Switzerland, [Deltapark Vitalresort](https://en.deltapark.ch) in Switzerland, and [Hotel Angelo Engel](https://www.hotelangelo.net/en) in Italy.
 
 {% include gallery id="gallery_hotels" caption="" %}
 
 
 ## Tourism Boards
-We worked with various tourism boards such as State of Washington Tourism, Visit Southern Idaho, Visit Bend, Bryce Canyon Country, and Visit Cambria. Below are some example images from these collaborations.
+We worked with various tourism boards such as [State of Washington Tourism](https://stateofwatourism.com), [Visit Southern Idaho](https://visitsouthidaho.com), [Visit Bend](https://visitbend.com), [Bryce Canyon Country](https://www.brycecanyoncountry.com), and [Visit Cambria](https://visitcambriaca.com). Below are some example images from these collaborations.
 
 {% include gallery id="gallery_tourism" caption="" %}
-
 
 ## Campervans
 We worked with New England based campervan company [Walden Campervans](https://www.waldencampervans.com), and we showcased their amazing campervan at Acadia National Park in Maine. We also worked with [Peace Vans](https://www.peacevans.com) in Nortwest USA. In this project, we showcased their modern van in the Olympic National Park.
@@ -370,7 +369,7 @@ We worked with New England based campervan company [Walden Campervans](https://w
 
 
 ## Products
-We worked on various product photography such as Nomatic camera backpack, Wolverine shoes, Allbirds shoes, Oros Jackets, Ebike, and Magbanq powerbank.
+We worked on various product photography such as [Nomatic](https://www.nomatic.com) camera backpack, [Wolverine](https://www.wolverine.com) shoes, [Allbirds](https://www.allbirds.com) shoes, [Oros](https://www.orosapparel.com) Jackets, [Ebike](https://velocambria.com), and [Magbanq](https://www.magbanq.com) powerbank.
 
 {% include gallery id="gallery_products" caption="" %}
 
