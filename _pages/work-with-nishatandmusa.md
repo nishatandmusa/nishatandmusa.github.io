@@ -90,23 +90,47 @@ gallery_hotels:
     title: "Yosemite view lodge"
 
 
-gallery_bend:
+gallery_tourism:
+  - url: assets/images/washington_02.jpg
+    image_path: assets/images/washington_02.jpg
+    alt: "placeholder image"
+    title: "Mt. Baker, Washington"
+  - url: assets/images/washington_01.jpg
+    image_path: assets/images/washington_01.jpg
+    alt: "placeholder image"
+    title: "Mt. Baker, Washington"
+  - url: assets/images/washington_03.jpg
+    image_path: assets/images/washington_03.jpg
+    alt: "placeholder image"
+    title: "Highway-2, Washington"
+  - url: assets/images/washington_06.jpg
+    image_path: assets/images/washington_06.jpg
+    alt: "placeholder image"
+    title: "Hoh Rainforest, Washington"
+  - url: assets/images/idaho_03.jpg
+    image_path: assets/images/idaho_03.jpg
+    alt: "placeholder image"
+    title: "Perrine Coulee Waterfall, Idaho"
+  - url: assets/images/idaho_06.jpg
+    image_path: assets/images/idaho_06.jpg
+    alt: "placeholder image"
+    title: "Shoshone Falls, Idaho"
+  - url: assets/images/idaho_02.jpg
+    image_path: assets/images/idaho_02.jpg
+    alt: "placeholder image"
+    title: "Blue Heart Springs, Idaho"
+  - url: assets/images/idaho_05.jpg
+    image_path: assets/images/idaho_05.jpg
+    alt: "placeholder image"
+    title: "Shoshone Falls, Idaho"
+  - url: assets/images/idaho_04.jpg
+    image_path: assets/images/idaho_04.jpg
+    alt: "placeholder image"
+    title: "Craters of the Moon, Idaho"
   - url: assets/images/bend01.jpg
     image_path: assets/images/bend01.jpg
     alt: "placeholder image"
     title: "Sunrise at Smith Rock state park"
-  - url: assets/images/bend02.jpg
-    image_path: assets/images/bend02.jpg
-    alt: "placeholder image"
-    title: "Painted cove trail, Painted Hills"
-  - url: assets/images/bend03.jpg
-    image_path: assets/images/bend03.jpg
-    alt: "placeholder image"
-    title: "Sunset at Painted Hills"
-  - url: assets/images/bend04.jpg
-    image_path: assets/images/bend04.jpg
-    alt: "placeholder image"
-    title: "Cascade lakes"
   - url: assets/images/bend05.jpg
     image_path: assets/images/bend05.jpg
     alt: "placeholder image"
@@ -115,15 +139,6 @@ gallery_bend:
     image_path: assets/images/bend06.jpg
     alt: "placeholder image"
     title: "ATV adevnture at Bend, OR"
-gallery_bryce:
-  - url: assets/images/bryce01.jpg
-    image_path: assets/images/bryce01.jpg
-    alt: "placeholder image"
-    title: "Sunset at Bryce rim trail"
-  - url: assets/images/bryce02.jpg
-    image_path: assets/images/bryce02.jpg
-    alt: "placeholder image"
-    title: "Sunrise at Bryce point"
   - url: assets/images/bryce03.jpg
     image_path: assets/images/bryce03.jpg
     alt: "placeholder image"
@@ -132,14 +147,6 @@ gallery_bryce:
     image_path: assets/images/bryce04.jpg
     alt: "placeholder image"
     title: "Cosmic Ashtray, Escalante"
-  - url: assets/images/bryce05.jpg
-    image_path: assets/images/bryce05.jpg
-    alt: "placeholder image"
-    title: "Peekaboo slot canyon"
-  - url: assets/images/bryce06.jpg
-    image_path: assets/images/bryce06.jpg
-    alt: "placeholder image"
-    title: "Devils garden"
 gallery_cambria:
   - url: assets/images/cambria_ebike_01.jpg
     image_path: assets/images/cambria_ebike_01.jpg
@@ -262,16 +269,8 @@ We worked with various hotels and resorts in USA and abroad. Here are some of ou
 {% include gallery id="gallery_hotels" caption="" %}
 
 
-## Visit Bend, OR
-Bend is a beautiful city in central Oregon with a large variety of epic landscapes including numerous waterfalls, cascade mountains, caves, volcanoes, and unique rock formations. We worked with [Visit Bend](https://www.visitbend.com) to capture the natural beauty and adventure opportunities in Bend and it's surrounding.
-
-{% include gallery id="gallery_bend" caption="" %}
-
-
-## Bryce Canyon Country
-Bryce Canyon Country is a stunning destination in southern Utah, renowned for its awe-inspiring natural beauty, unique rock formations, and an array of exciting outdoor activities. In this project, we worked with [Bryce Canyon Country](https://www.brycecanyoncountry.com) tourism board to showcase the Bryce Canyon National Park Grand Staircase-Escalante National Monument.
-
-{% include gallery id="gallery_bryce" caption="" %}
+## Tourism boards
+We worked with various tourism boards such as State of Washington Tourism, Visit Southern Idaho, Visit Bend, Bryce Canyon Country, and Visit Cambria. Below are some example images from these collaborations.
 
 
 ## Walden Campervans
@@ -291,12 +290,6 @@ Bryce Canyon Country is a stunning destination in southern Utah, renowned for it
 [Nomatic](https://www.nomatic.com) is one of the industry leaders in high quality and functional camera backpacks. In this collaboration, we worked with Nomatic to showcase the Peter McKinnon 35L travel camera backpack. 
 
 {% include gallery id="gallery_nomatic" caption="" %}
-
-
-## Visit Cambria
-California is home to a lot of seaside towns and [Cambria](https://visitcambriaca.com) is definitely one of the best towns to visit. It has stunning beaches, sea cliffs, hiking and biking trails, and a cute little downtown. We worked on this project to highlight E-biking at the Fiscalini Ranch Preserve in Cambria.
-
-{% include gallery id="gallery_cambria" caption="" %}
 
 
 ## Yongnuo Photography
