@@ -88,8 +88,6 @@ gallery_hotels:
     image_path: assets/images/yosemite_lodge_01.jpg
     alt: "placeholder image"
     title: "Yosemite view lodge"
-
-
 gallery_tourism:
   - url: assets/images/washington_02.jpg
     image_path: assets/images/washington_02.jpg
