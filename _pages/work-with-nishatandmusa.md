@@ -269,7 +269,7 @@ We worked with various hotels and resorts in USA and abroad. Here are some of ou
 {% include gallery id="gallery_hotels" caption="" %}
 
 
-## Tourism boards
+## Tourism Boards
 We worked with various tourism boards such as State of Washington Tourism, Visit Southern Idaho, Visit Bend, Bryce Canyon Country, and Visit Cambria. Below are some example images from these collaborations.
 
 {% include gallery id="gallery_tourism" caption="" %}
